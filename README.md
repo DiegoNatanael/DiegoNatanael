@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+YourName!;I'm+a+software+developer;I+love+building+cool+things!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Diego Natanael!;I'm+a+software+developer;I+love+building+cool+things!)
 
 <!-- For Followers -->
 <img src="https://img.shields.io/github/followers/DiegoNatanael?style=for-the-badge&logo=github&label=Followers&color=0891b2" />
