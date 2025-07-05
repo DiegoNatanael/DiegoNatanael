@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Diego Natanael!;I'm+a+software+developer;I+love+building+cool+things!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C%20I%27m%20Diego%20Natanael!;I%27m%20a%20software%20developer;I%20love%20building%20cool%20things!)
 
 <!-- For Followers -->
 <img src="https://img.shields.io/github/followers/DiegoNatanael?style=for-the-badge&logo=github&label=Followers&color=0891b2" />
@@ -8,10 +6,10 @@
 <!-- For Stars on a specific repo -->
 <!-- <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&label=Stars&color=2088FF" />
 
-<!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoNatanael&show_icons=true&theme=tokyonight)
+<!-- The more graphical stats card -->
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoNatanael&show_icons=true&theme=tokyonight)
 
-<!-- Top Languages Card -->
+<!-- The top languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNatanael&layout=compact&theme=tokyonight)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
