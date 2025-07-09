@@ -6,8 +6,6 @@
 <!-- For Stars on a specific repo -->
 <!-- <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&label=Stars&color=2088FF" />
 
-<!-- The more graphical stats card -->
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoNatanael&show_icons=true&theme=tokyonight)
 
 <!-- The top languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNatanael&layout=compact&theme=tokyonight)
