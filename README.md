@@ -62,10 +62,14 @@
     <a href="https://github.com/DiegoNatanael/python-web-server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=python-web-server&theme=tokyonight&hide_border=true&show_icons=false" alt="python-web-server"></a>
     <a href="https://github.com/DiegoNatanael/language-interpreter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=language-interpreter&theme=tokyonight&hide_border=true&show_icons=false" alt="language-interpreter"></a>
   </p>
+  <p align="left">
+    <a href="https://github.com/DiegoNatanael?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
 </details>
 
 <br/>
 
+<!--
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
@@ -85,15 +89,7 @@
 </details>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/DiegoNatanael?tab=repositories">
-    <b>➡️ Click here for all my repos</b>
-  </a>
-</p>
-
-<br/>
-
+-->
 <details open>
   <summary><h2>📫 Connect with me:</h2></summary>
   <p align="center">
