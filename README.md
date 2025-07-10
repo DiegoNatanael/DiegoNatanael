@@ -45,26 +45,39 @@
 
 ### ✨ My Top Projects
 
-<p align="center">
-  <a href="https://github.com/DiegoNatanael/CipherNote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DiegoNatanael/Chaotic-Password-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=Chaotic-Password-Generator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DiegoNatanael/python-web-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=python-web-server&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DiegoNatanael/language-interpreter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=language-interpreter&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/DiegoNatanael/CipherNote">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/DiegoNatanael/Chaotic-Password-Generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=Chaotic-Password-Generator&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/DiegoNatanael/python-web-server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=python-web-server&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/DiegoNatanael/language-interpreter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=language-interpreter&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/DiegoNatanael?tab=repositories">
     <b>➡️ Click here for all my repos</b>
   </a>
 </p>
+
 ---
 
 ### 📫 Connect with me:
