@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/DiegoNatanael">
-    <img src="https://img.shields.io/github/followers/DiegoNatanael?label=Follow&style=social" alt="Followers"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&size=32&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code." alt="Typing SVG" />
   </a>
 </div>
 
