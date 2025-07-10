@@ -43,24 +43,61 @@
 
 ---
 
-<h3 align="center">✨ My Top Projects</h3>
+### ✨ My Top Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/DiegoNatanael/CipherNote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; justify-items: center; padding: 10px;">
+
+  <a href="https://github.com/DiegoNatanael/CipherNote" style="text-decoration: none; color: inherit;">
+    <div style="background-color: #1a202c; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid #2d3748;">
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 10px; color: #a0aec0;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">CipherNote</h4>
+        <p style="font-size: 0.9em; color: #cbd5e0; margin-bottom: 15px;">No description provided</p>
+      </div>
+      <div style="text-align: right; font-size: 0.8em; color: #718096;">
+        <span>TypeScript</span>
+      </div>
+    </div>
   </a>
-  <a href="https://github.com/DiegoNatanael/Chaotic-Password-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=Chaotic-Password-Generator&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/DiegoNatanael/Chaotic-Password-Generator" style="text-decoration: none; color: inherit;">
+    <div style="background-color: #1a202c; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid #2d3748;">
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 10px; color: #a0aec0;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">Chaotic-Password-Generator</h4>
+        <p style="font-size: 0.9em; color: #cbd5e0; margin-bottom: 15px;">A unique password generator that leverages the physics of a double pendulum to create a source of chaotic entropy.</p>
+      </div>
+      <div style="text-align: right; font-size: 0.8em; color: #718096;">
+        <span>JavaScript</span>
+      </div>
+    </div>
   </a>
-  <a href="https://github.com/DiegoNatanael/python-web-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=python-web-server&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/DiegoNatanael/python-web-server" style="text-decoration: none; color: inherit;">
+    <div style="background-color: #1a202c; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid #2d3748;">
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 10px; color: #a0aec0;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" alt="Python" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">python-web-server</h4>
+        <p style="font-size: 0.9em; color: #cbd5e0; margin-bottom: 15px;">A bare-bones HTTP server built from scratch in Python, demonstrating fundamental web server principles, static file serving, and concurrency.</p>
+      </div>
+      <div style="text-align: right; font-size: 0.8em; color: #718096;">
+        <span>Python</span>
+      </div>
+    </div>
   </a>
-  <a href="https://github.com/DiegoNatanael/language-interpreter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=language-interpreter&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/DiegoNatanael/language-interpreter" style="text-decoration: none; color: inherit;">
+    <div style="background-color: #1a202c; border-radius: 8px; padding: 20px; height: 100%; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid #2d3748;">
+      <div>
+        <h4 style="margin-top: 0; margin-bottom: 10px; color: #a0aec0;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" alt="Python" width="20" height="20" style="vertical-align: middle; margin-right: 8px;">language-interpreter</h4>
+        <p style="font-size: 0.9em; color: #cbd5e0; margin-bottom: 15px;">A step-by-step implementation of a simple interpreter for a tiny arithmetic language, featuring a lexer, parser (AST), and interpreter with variables and assignment.</p>
+      </div>
+      <div style="text-align: right; font-size: 0.8em; color: #718096;">
+        <span>Python</span>
+      </div>
+    </div>
   </a>
+
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <a href="https://github.com/DiegoNatanael?tab=repositories">
     <b>➡️ Click here for all my repos</b>
   </a>
