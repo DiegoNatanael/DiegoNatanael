@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&size=32&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code." alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=F7F7F7&background=4BC4FF00&center=true&vCenter=true&width=470&lines=Hey%2C+I%E2%80%99m+Natanael.;I+break+things+to+learn+how+to+fix+them.;Coding+is+my+way+of+telling+stories.;Let%E2%80%99s+write+the+next+one+together.)](https://git.io/typing-svg)
 
 ---
 
