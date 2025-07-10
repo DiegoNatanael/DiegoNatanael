@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C%20I%27m%20Diego%20Natanael!;I%27m%20a%20software%20developer;I%20love%20building%20cool+things!+🚀" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C%20I%27m%20Diego%20Natanael!;I%27m%20a%20software%20developer;I%20love%20building%20cool%20things!)
 </div>
 
 ---
@@ -78,9 +78,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   </p>
-
----
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/{DiegoNatanael}/count.svg" alt="Profile views" />
-</p>
