@@ -49,26 +49,17 @@
   <a href="https://github.com/DiegoNatanael/CipherNote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/DiegoNatanael/YourSecondProjectRepo">
+  <a href="[https://github.com/DiegoNatanael/YourSecondProjectRepo](https://github.com/DiegoNatanael/Chaotic-Password-Generator)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourSecondProjectRepo&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/DiegoNatanael/YourThirdProjectRepo">
+  <a href="[https://github.com/DiegoNatanael/YourThirdProjectRepo](https://github.com/DiegoNatanael/python-web-server)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourThirdProjectRepo&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="[https://github.com/DiegoNatanael/YourFourthProjectRepo](https://github.com/DiegoNatanael/language-interpreter)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourFourthProjectRepo&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
-   
-  <a href="https://github.com/DiegoNatanael/YOUR_FOURTH_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_FOURTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DiegoNatanael/YOUR_FIFTH_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_FIFTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DiegoNatanael/YOUR_SIXTH_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_SIXTH_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/DiegoNatanael?tab=repositories">
     <b>➡️ Click here for all my repos</b>
