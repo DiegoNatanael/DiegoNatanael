@@ -49,14 +49,14 @@
   <a href="https://github.com/DiegoNatanael/CipherNote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="[https://github.com/DiegoNatanael/YourSecondProjectRepo](https://github.com/DiegoNatanael/Chaotic-Password-Generator)">
+  <a href="https://github.com/DiegoNaChaotic-Password-Generatortanael/Chaotic-Password-Generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourSecondProjectRepo&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="[https://github.com/DiegoNatanael/YourThirdProjectRepo](https://github.com/DiegoNatanael/python-web-server)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourThirdProjectRepo&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/DiegoNatanael/python-web-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=python-web-server&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="[https://github.com/DiegoNatanael/YourFourthProjectRepo](https://github.com/DiegoNatanael/language-interpreter)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourFourthProjectRepo&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/DiegoNatanael/language-interpreter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=language-interpreter&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
