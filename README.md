@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Natanael.;I+break+things+to+learn+how+to+fix+them.;Coding+is+my+way+of+telling+stories.;Let’s+write+the+next+one+together.&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Natanael's Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Playfair+Display&weight=600&size=22&color=F7F7F7&lines=Hey%2C+I%E2%80%99m+Natanael.;I+break+things+to+learn+how+to+fix+them.+;Coding+is+my+way+of+telling+stories.;Let%E2%80%99s+write+the+next+one+together.">
 </p>
 
 ---
