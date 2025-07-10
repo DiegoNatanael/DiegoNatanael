@@ -45,24 +45,35 @@
 
 ### ✨ My Top Projects
 
-* **[CipherNotes (React Native)](https://github.com/DiegoNatanael/CipherNote)**
-    * _A secure, end-to-end encrypted note-taking mobile application built with React Native, leveraging AES-GCM encryption and local storage._
-    * **Tech Stack:** React Native, TypeScript, Expo, React Navigation, Web Crypto API
-    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/CipherNote.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/CipherNote/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/CipherNote.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/CipherNote/network/members)
-    * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
+<p align="center">
+  <a href="https://github.com/DiegoNatanael/CipherNote">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=CipherNote&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DiegoNatanael/YourSecondProjectRepo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourSecondProjectRepo&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DiegoNatanael/YourThirdProjectRepo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YourThirdProjectRepo&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+   
+  <a href="https://github.com/DiegoNatanael/YOUR_FOURTH_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_FOURTH_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DiegoNatanael/YOUR_FIFTH_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_FIFTH_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DiegoNatanael/YOUR_SIXTH_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoNatanael&repo=YOUR_SIXTH_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-* **[Your Second Project Name](https://github.com/DiegoNatanael/YourSecondProjectRepo)**
-    * _A brief, compelling description of your second cool project. What problem does it solve? What's unique about it?_
-    * **Tech Stack:** Add relevant technologies (e.g., Python, Django, PostgreSQL)
-    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/YourSecondProjectRepo.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/YourSecondProjectRepo/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/YourSecondProjectRepo.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/YourSecondProjectRepo/network/members)
-    * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
-
-* **[Your Third Project Name (Optional)](https://github.com/DiegoNatanael/YourThirdProjectRepo)**
-    * _Another brief, compelling description._
-    * **Tech Stack:** Add relevant technologies
-    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/YourThirdProjectRepo.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/YourThirdProjectRepo/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/YourThirdProjectRepo.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/YourThirdProjectRepo/network/members)
-    * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
-
+<p align="center">
+  <a href="https://github.com/DiegoNatanael?tab=repositories">
+    <b>➡️ Click here for all my repos</b>
+  </a>
+</p>
 ---
 
 ### 📫 Connect with me:
