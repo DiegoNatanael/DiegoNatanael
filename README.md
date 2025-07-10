@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/DiegoNatanael?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="GitHub Followers" />
-  </p>
+</p>
 
 ---
 
@@ -16,9 +16,7 @@
 * 👯 I'm looking to collaborate on **open-source projects related to data privacy, web security, or innovative mobile solutions.**
 * 🤔 I'm looking for help with **optimizing database performance for large-scale applications.**
 * 💬 Ask me about **Python, JavaScript, React Native, or anything related to clean code and software architecture!**
-<!--* 📫 How to reach me: You can connect with me on [LinkedIn](YOUR_LINKEDIN_URL) or shoot me an email at [your.email@example.com](mailto:your.email@example.com).-->
 * 😄 Pronouns: He/Him
-<!--* ⚡ Fun fact: I once debugged a stubborn bug by talking to a rubber duck for an hour... it worked! 🦆 -->
 
 ---
 
@@ -33,7 +31,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
+</p>
 
 ---
 
@@ -45,21 +43,24 @@
 
 ---
 
-### 🚀 Featured Projects
+### ✨ My Top Projects
 
 * **[CipherNotes (React Native)](https://github.com/DiegoNatanael/CipherNote)**
     * _A secure, end-to-end encrypted note-taking mobile application built with React Native, leveraging AES-GCM encryption and local storage._
-    * **Technologies:** React Native, TypeScript, Expo, React Navigation, Web Crypto API
+    * **Tech Stack:** React Native, TypeScript, Expo, React Navigation, Web Crypto API
+    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/CipherNote.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/CipherNote/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/CipherNote.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/CipherNote/network/members)
     * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
 
 * **[Your Second Project Name](https://github.com/DiegoNatanael/YourSecondProjectRepo)**
-    * _A brief description of your second cool project. Make it compelling!_
-    * **Technologies:** Add relevant technologies (e.g., Python, Django, PostgreSQL)
+    * _A brief, compelling description of your second cool project. What problem does it solve? What's unique about it?_
+    * **Tech Stack:** Add relevant technologies (e.g., Python, Django, PostgreSQL)
+    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/YourSecondProjectRepo.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/YourSecondProjectRepo/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/YourSecondProjectRepo.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/YourSecondProjectRepo/network/members)
     * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
 
 * **[Your Third Project Name (Optional)](https://github.com/DiegoNatanael/YourThirdProjectRepo)**
     * _Another brief, compelling description._
-    * **Technologies:** Add relevant technologies
+    * **Tech Stack:** Add relevant technologies
+    * [![GitHub stars](https://img.shields.io/github/stars/DiegoNatanael/YourThirdProjectRepo.svg?style=social&label=Stars)](https://github.com/DiegoNatanael/YourThirdProjectRepo/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DiegoNatanael/YourThirdProjectRepo.svg?style=social&label=Forks)](https://github.com/DiegoNatanael/YourThirdProjectRepo/network/members)
     * `[Link to Live Demo (if any)]` | `[Link to Specific Project README]`
 
 ---
@@ -76,4 +77,4 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  </p>
+</p>
