@@ -17,10 +17,10 @@
 <details open>
   <summary><h2>👋 About Me</h2></summary>
   <ul>
-    <li>🔭 I'm currently working on <b>building secure and user-friendly mobile applications with React Native</b> (like CipherNotes!).</li>
+    <li>🔭 I'm currently working on <b>building secure and user-friendly mobile applications with Flutter</b>.</li>
     <li>👯 I'm looking to collaborate on <b>open-source projects related to data privacy, web security, or innovative mobile solutions.</b></li>
     <li>🤔 I'm looking for help with <b>optimizing database performance for large-scale applications.</b></li>
-    <li>💬 Ask me about <b>Python, JavaScript, React Native, or anything related to clean code and software architecture!</b></li>
+    <li>💬 Ask me about <b>Python, JavaScript, Flutter, or anything related to clean code and software architecture</b></li>
     <li>😄 Pronouns: He/Him</li>
   </ul>
 </details>
