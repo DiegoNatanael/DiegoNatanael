@@ -32,6 +32,10 @@ I don't do "Hello World." I build secure mobile applications and study low-level
 <br />
 
 <div align="center">
+  <img src="https://github.com/DiegoNatanael/DiegoNatanael/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<div align="center">
   <a href="https://github.com/novatorem/novatorem">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117&bar_color=5bcdec&text_color=ffffff" width="350" />
   </a>
