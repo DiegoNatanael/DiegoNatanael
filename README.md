@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=NATANAEL&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&stroke=ffffff&strokeWidth=0" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=700&size=70&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=NATANAEL.;ARCHITECT.;CREATOR." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=FULL+STACK+ARCHITECTURE;LOCAL+LLM+FINE-TUNING;HIGH-FIDELITY+UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=999999&center=true&vCenter=true&width=600&lines=I+build+logic+that+scales.;I+train+models+on+the+edge.;I+design+interfaces+that+breathe." alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,10 +23,10 @@
 </div>
 
 <br/>
-<br/>
 
-<h3 align="center">TECHNICAL STACK</h3>
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+  <br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,godot,fastapi,postgres,docker,linux,git,figma&theme=dark" />
   </a>
@@ -28,36 +36,34 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoNatanael&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNatanael&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_border=true" height="160" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoNatanael&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNatanael&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" height="150" alt="Languages" />
 </div>
 
 <br/>
+<br/>
 
-<h3 align="center">SELECTED WORKS</h3>
+<h3 align="center" style="font-family: monospace">/// CLASSIFIED PROJECTS ///</h3>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="300">
+      <td align="center" width="250">
         <a href="https://github.com/DiegoNatanael">
-          <img src="https://img.shields.io/badge/TOEFL_PREP-NIM_API-000000?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/NIM_API-AI_CORE-white?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=black" />
         </a>
-        <br/>
-        Generative AI Mock Tests
       </td>
-      <td align="center" width="300">
+      <td align="center" width="250">
         <a href="https://github.com/DiegoNatanael/CipherNote">
-          <img src="https://img.shields.io/badge/CIPHER_NOTE-SECURITY-000000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/CIPHER-SECURITY-white?style=for-the-badge&logo=flutter&logoColor=black&labelColor=black" />
         </a>
-        <br/>
-        Local-First Architecture
       </td>
-      <td align="center" width="300">
+      <td align="center" width="250">
         <a href="https://github.com/DiegoNatanael">
-          <img src="https://img.shields.io/badge/SCRAPER-ML_DATA-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/SCRAPER-BIG_DATA-white?style=for-the-badge&logo=python&logoColor=black&labelColor=black" />
         </a>
-        <br/>
-        Predictive Modeling Engine
       </td>
     </tr>
   </table>
@@ -67,11 +73,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/natanael-gonzalez-55833631b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:natanael.gonzalez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-black?style=social&logo=linkedin" />
   </a>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&stroke=ffffff&strokeWidth=0" width="100%" />
 </div>
